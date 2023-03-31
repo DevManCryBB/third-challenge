@@ -5,11 +5,16 @@
 
 ## Usage
 
-To use this application simply follow the prompts to make your selections and once all of the prompts are finished, click the "Generate Password" button.
+To use this application simply click the "Generate Password" button, follow the prompts to make your selections. Once all of the prompts are finished, your newly generated password will appear.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+[firstScreen](./assets/Screen%20Shot%202023-03-30%20at%206.37.54%20PM.png)
+[firstPrompt](./assets/Screen%20Shot%202023-03-30%20at%206.38.05%20PM.png)
+[secondPrompt](./assets/Screen%20Shot%202023-03-30%20at%206.38.15%20PM.png)
+[thirdPrompt](./assets/Screen%20Shot%202023-03-30%20at%206.38.32%20PM.png)
+[fourthPrompt](./assets/Screen%20Shot%202023-03-30%20at%206.38.37%20PM.png)
+[fifthPrompt](./assets/Screen%20Shot%202023-03-30%20at%206.38.37%20PM.png)
+[sixthPrompt](./assets/Screen%20Shot%202023-03-30%20at%206.38.42%20PM.png)
+[generatedPWD](./assets/Screen%20Shot%202023-03-30%20at%206.39.01%20PM.png)
 
 ## Credits
 
